@@ -5,7 +5,7 @@ URL Shortener program built with Python
 1. Create a new Bitly account if you don't have from here https://bitly.com/a/sign_up
 2. Create a new .env file in your directory by running command below
 ```
-touch .env
+cp .env.example .env
 ```
 3. Insert your username and password into ```.env``` 
 
